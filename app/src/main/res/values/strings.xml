@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Maps Application</string>
+    <string name="title_activity_maps_one">Map</string>
+    <string name="title_activity_scrolling">ScrollingActivityOne</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list_one">ListActivityOne</string>
+
+    <string name="list">List</string>
+    <string name="map">Map</string>
+
+    <string name="loc">Location : </string>
+    <string name="date">Date : </string>
+    <string name="elig">Eligibility : </string>
+    <string name="des">Description : </string>
+
+    <string name="learn_more">Learn more</string>
+
+    <string name="name_1">Opportunity 1</string>
+    <string name="loc_1">San Diego, CA</string>
+    <string name="date_1">May 1, 2018</string>
+    <string name="elig_1">High School only</string>
+    <string name="des_1">Description of event</string>
+
+    <string name="name_2">Opportunity 2</string>
+    <string name="loc_2">San Diego, CA</string>
+    <string name="date_2">June 28, 2018</string>
+    <string name="elig_2">College only</string>
+    <string name="des_2">Description of event</string>
+
+</resources>
